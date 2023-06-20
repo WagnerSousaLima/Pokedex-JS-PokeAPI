@@ -7,11 +7,7 @@
 <img  alt=banner-principal src="/assets/img/pokedexbanner.jpg">
 </div>
 
-<br>
 
-# *Projeto do curso Formação JavaScript Developer da [Digital innovation one - DIO](https://web.dio.me/track/6e3cb1b0-bbcc-4cab-8d5c-c2c7acec960d)*
-
-<br>
 
 ## 🚀 Tecnologias
 
